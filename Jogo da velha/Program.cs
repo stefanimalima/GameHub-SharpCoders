@@ -316,8 +316,6 @@ namespace jogoDaVelha01
                         break;
                     }
                     Console.Clear();
-
-
                 }
                 catch (Exception)
                 {

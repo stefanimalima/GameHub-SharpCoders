@@ -1,0 +1,8 @@
+C:\Users\stefa\OneDrive\Área de Trabalho\Desenvolvimento em C#\HubDeJogos\HubDeJogos\HubDeJogos\obj\Debug\GameHub.csproj.AssemblyReference.cache
+C:\Users\stefa\OneDrive\Área de Trabalho\Desenvolvimento em C#\HubDeJogos\HubDeJogos\HubDeJogos\obj\Debug\GameHub.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefa\OneDrive\Área de Trabalho\Desenvolvimento em C#\HubDeJogos\HubDeJogos\HubDeJogos\obj\Debug\GameHub.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Área de Trabalho\Desenvolvimento em C#\HubDeJogos\HubDeJogos\HubDeJogos\bin\Debug\HubDeJogos.exe.config
+C:\Users\stefa\OneDrive\Área de Trabalho\Desenvolvimento em C#\HubDeJogos\HubDeJogos\HubDeJogos\bin\Debug\HubDeJogos.exe
+C:\Users\stefa\OneDrive\Área de Trabalho\Desenvolvimento em C#\HubDeJogos\HubDeJogos\HubDeJogos\bin\Debug\HubDeJogos.pdb
+C:\Users\stefa\OneDrive\Área de Trabalho\Desenvolvimento em C#\HubDeJogos\HubDeJogos\HubDeJogos\obj\Debug\HubDeJogos.exe
+C:\Users\stefa\OneDrive\Área de Trabalho\Desenvolvimento em C#\HubDeJogos\HubDeJogos\HubDeJogos\obj\Debug\HubDeJogos.pdb

@@ -6,3 +6,11 @@ C:\Users\stefa\OneDrive\Área de Trabalho\DEV\Beecrowd\Jogo da velha\Jogo da vel
 C:\Users\stefa\OneDrive\Área de Trabalho\DEV\Beecrowd\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.csproj.CoreCompileInputs.cache
 C:\Users\stefa\OneDrive\Área de Trabalho\DEV\Beecrowd\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.exe
 C:\Users\stefa\OneDrive\Área de Trabalho\DEV\Beecrowd\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.pdb
+C:\Users\stefa\OneDrive\Área de Trabalho\DEV\Jogo da velha - ste\jogoDaVelha-cShap\Jogo da velha\bin\Debug\Jogo da velha.exe.config
+C:\Users\stefa\OneDrive\Área de Trabalho\DEV\Jogo da velha - ste\jogoDaVelha-cShap\Jogo da velha\bin\Debug\Jogo da velha.exe
+C:\Users\stefa\OneDrive\Área de Trabalho\DEV\Jogo da velha - ste\jogoDaVelha-cShap\Jogo da velha\bin\Debug\Jogo da velha.pdb
+C:\Users\stefa\OneDrive\Área de Trabalho\DEV\Jogo da velha - ste\jogoDaVelha-cShap\Jogo da velha\obj\Debug\Jogo da velha.csproj.AssemblyReference.cache
+C:\Users\stefa\OneDrive\Área de Trabalho\DEV\Jogo da velha - ste\jogoDaVelha-cShap\Jogo da velha\obj\Debug\Jogo da velha.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefa\OneDrive\Área de Trabalho\DEV\Jogo da velha - ste\jogoDaVelha-cShap\Jogo da velha\obj\Debug\Jogo da velha.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Área de Trabalho\DEV\Jogo da velha - ste\jogoDaVelha-cShap\Jogo da velha\obj\Debug\Jogo da velha.exe
+C:\Users\stefa\OneDrive\Área de Trabalho\DEV\Jogo da velha - ste\jogoDaVelha-cShap\Jogo da velha\obj\Debug\Jogo da velha.pdb
